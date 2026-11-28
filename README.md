@@ -8,7 +8,7 @@ for Deaf and hard-of-hearing people.
 ## Progress
 - [x] Phase 1: Dataset exploration (ESC-50)
 - [x] Phase 2: Audio preprocessing and MFCC features
-- [ ] Phase 3: Random Forest and SVM
+- [X] Phase 3: Random Forest and SVM
 - [ ] Phase 4: YAMNet transfer learning
 - [ ] Phase 5-8: App, live detection, accessibility, deployment
 
